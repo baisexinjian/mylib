@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "name": "抖X",
+      "ver": "261122192612",
+      "size": "7.2 MB",
+      "time": "2026-11-25",
+      "letter": "抖",
+      "file": "抖X_261122192612.apk",
+      "url": "https://github.com/baisexinjian/mylib/releases/download/v1.0/X_261122192612.apk"
+    },
+    {
+      "name": "准时天气",
+      "ver": "12.1.9",
+      "size": "86.4 MB",
+      "time": "2026-11-25",
+      "letter": "天",
+      "file": "准时天气_12.1.9.apk",
+      "url": "https://github.com/baisexinjian/mylib/releases/download/v1.0/_12.1.9.apk.1"
+    }
+  ]
+}
